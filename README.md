@@ -3,6 +3,7 @@
 
 📍 Ahmedabad, Gujarat, India | 📧 fenilsavaliya23@gmail.com | 📞 8849235254
 🔗 [LinkedIn](www.linkedin.com/in/fenilsavaliya230206) | 🐙 [GitHub](https://github.com/Fenilsavaliya23)
+📄 [**Download My Resume (PDF)**](./Fenil's_resume.pdf)
 
 ---
 
