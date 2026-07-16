@@ -21,7 +21,7 @@
   * Percentage: 84.33%
 
 ## 💻 Skills
-* **Programming Languages:** Java, C/C++, JavaScript
+* **Programming Languages:** Java, C/C++, Python, JavaScript
 * **Frontend:** HTML5, CSS, React.js
 * **Backend:** Spring Boot, Spring Security, REST APIs, JWT Authentication
 * **Databases:** MySQL, PostgreSQL, MongoDB
